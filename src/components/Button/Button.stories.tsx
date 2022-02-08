@@ -46,15 +46,3 @@ Secondary.args = {
   label: 'Button',
   backgroundColor: 'blue.500'
 }
-
-export const Large = Template.bind({})
-Large.args = {
-  size: 'lg',
-  label: 'Button'
-}
-
-export const Small = Template.bind({})
-Small.args = {
-  size: 'sm',
-  label: 'Button'
-}
